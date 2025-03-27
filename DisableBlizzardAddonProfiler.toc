@@ -1,0 +1,7 @@
+## Interface: 110100, 110105, 110107
+## Title: Disable Blizzard Addon Profiler
+## Notes: Disables Blizzard's built-in Addon Profiler. This addon has no GUI or command line options.
+## Category: Other
+## Author: Miragosa
+## Version: 1.0.0
+core.lua
