@@ -3,7 +3,8 @@ enabled at first login. If it is, it declares a console variable that
 controls this function. It then sets that variable to 0 (off).
 
 This change will persist through character switches/logouts, but will
-be reset to the default setting when the client quits.
+be reset to the default setting when the client quits. That's where
+this addon comes in; it'll re-disable the Profiler for you.
 
 You can confirm for yourself whether the profiler is disabled with the
 chat window command /dump C_AddOnProfiler.IsEnabled() -- "false" means it's
