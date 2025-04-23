@@ -3,5 +3,5 @@
 ## Notes: Disables Blizzard's built-in Addon Profiler. This addon has no GUI or command line options.
 ## Category: Other
 ## Author: Miragosa
-## Version: 1.0.0
+## Version: 1.0.1
 core.lua
