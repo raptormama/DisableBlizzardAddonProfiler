@@ -12,3 +12,8 @@ chat window command /dump C_AddOnProfiler.IsEnabled() -- "false" means it's
 turned off. That's what you want to see.
 
 That's all this does. Really.
+
+However, as of 2025-04-25, I've been made aware that this addon can no longer function.
+(Please see https://us.forums.blizzard.com/en/wow/t/addon-profiler-forced-on-now/2096273/20).
+
+Therefore, it will no longer be updated. Thank you to everyone who found it useful!
